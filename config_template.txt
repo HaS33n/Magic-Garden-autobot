@@ -1,0 +1,7 @@
+interact_button.x interact_button.y
+base_button.x base_button.y
+sell_button.x sell_button.y
+
+FragmentToFarm.UpperFrontCorner.x frag.uf.y frag.LowerBack.x frag.lb.y
+RSIDE_BEGIN
+frag2.uf.x frag2.uf.y frag2.lb.x frag2.lb.y
